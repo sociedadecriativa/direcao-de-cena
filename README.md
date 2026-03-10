@@ -1,2 +1,10 @@
-# direcao-de-cena
-Análise estratégica completa do seu perfil + sessão de 90 min onde você sai com algo concreto feito na chamada. 
+## Diagnóstico - Direção de Cena | João Paulo Coelho
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
